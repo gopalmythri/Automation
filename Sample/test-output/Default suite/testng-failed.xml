@@ -5,7 +5,7 @@
     <classes>
       <class name="demo.test.AddCartAmoazonShoping">
         <methods>
-          <include name="AddCart1"/>
+          <include name="AddItemtoCart"/>
         </methods>
       </class> <!-- demo.test.AddCartAmoazonShoping -->
     </classes>
