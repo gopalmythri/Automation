@@ -11,7 +11,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class sampleautomation {
 
 public static void main(String[] args) throws InterruptedException {
-	 System.setProperty("webdriver.chrome.driver", "C://Users//chromedriver.exe");
+	
+	 System.setProperty("webdriver.chrome.driver", "E://selelnium//chromedriver.exe");
 	 WebDriver driver= new ChromeDriver();  
 	 driver.manage().deleteAllCookies();
 	 driver.manage().window().maximize();
